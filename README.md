@@ -17,6 +17,6 @@ This Example takes Paul’s approach and packages it in Firemonkey so that it ca
 ## Conclusion
 My minimal testing yields 
 
-Performance penalty of inserting Try Except Blocks (at an insane rate)  Android 25%  Windows 32  70% Windows 64 50% which is not a significant given the potential diagnostic return.
+Performance penalty of inserting Try Except Blocks (at an insane rate)  Android 25%  Windows 32  70% Windows 64 50% which is not significant given the potential diagnostic return.
 
  
