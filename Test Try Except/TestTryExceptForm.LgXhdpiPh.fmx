@@ -1,0 +1,23 @@
+inherited ExceptionTstForm_LgXhdpiPh: TExceptionTstForm_LgXhdpiPh
+  ClientHeight = 425
+  ClientWidth = 720
+  DesignerMasterStyle = 0
+  inherited MmoRslts1: TMemo [0]
+    Position.X = 7.000000000000000000
+    Size.Width = 369.000000000000000000
+    Size.Height = 425.000000000000000000
+    Viewport.Width = 369.000000000000000000
+    Viewport.Height = 425.000000000000000000
+  end
+  inherited MmoRslts2: TMemo [1]
+    Position.X = 376.000000000000000000
+    Size.Width = 344.000000000000000000
+    Size.Height = 425.000000000000000000
+    Viewport.Width = 344.000000000000000000
+    Viewport.Height = 425.000000000000000000
+  end
+  inherited BtnTryExceptImpact: TButton [2]
+  end
+  inherited BthActionExceptions: TButton [3]
+  end
+end
